@@ -1,0 +1,17 @@
+rgid	folder	gen_status	status	diagnosis	rgsm	tissue	individual	treatment	disease_status	tnf_inhibitor	steroid	timepoint
+NS001-1_CSF	NS001-001_CSF	neurosarcoid	active	probable_NS	NS001-1_CSF	CSF	NS001-1	None	active	FALSE	FALSE	a
+NS001-1_PBMC	NS001-001_PBMCs	neurosarcoid	active	probable_NS	NS001-1_PBMC	PBMC	NS001-1	None	active	FALSE	FALSE	a
+NS001-2_CSF	NS001-002_CSF	neurosarcoid	inactive	probable_NS	NS001-2_CSF	CSF	NS001-2	IVMP	controlled	FALSE	TRUE	b
+NS001-2_PBMC	NS001-002_PBMCs	neurosarcoid	inactive	probable_NS	NS001-2_PBMC	PBMC	NS001-2	IVMP	controlled	FALSE	TRUE	b
+NS006_CSF	NS006_CSF	neurosarcoid	active	probable_NS	NS006_CSF	CSF	NS006	None	active	FALSE	FALSE	a
+NS006_PBMC	NS006_PBMCs	neurosarcoid	active	probable_NS	NS006_PBMC	PBMC	NS006	None	active	FALSE	FALSE	a
+NS008_CSF	NS008_CSF	neurosarcoid	active	probable_NS	NS008_CSF	CSF	NS008	None	active	FALSE	FALSE	a
+NS008_PBMC	NS008_PBMCs	neurosarcoid	active	probable_NS	NS008_PBMC	PBMC	NS008	None	active	FALSE	FALSE	a
+NS010_CSF	NS010_CSF	control	control	dementia	NS010_CSF	CSF	NS010	None		FALSE	FALSE	a
+NS010_PBMC	NS010_PBMCs	control	control	dementia	NS010_PBMC	PBMC	NS010	None		FALSE	FALSE	a
+NS015_CSF	NS015_CSF	neurosarcoid	active	probable_NS	NS015_CSF	CSF	NS015	Infliximab_prednisone	active	TRUE	TRUE	a
+NS015_PBMC	NS015_PBMCs	neurosarcoid	active	probable_NS	NS015_PBMC	PBMC	NS015	Infliximab_prednisone	active	TRUE	TRUE	a
+NS016_CSF	NS016_CSF	neurosarcoid	active	probable_NS	NS016_CSF	CSF	NS016	None	active	FALSE	FALSE	a
+NS016_PBMC	NS016_PBMCs	neurosarcoid	active	probable_NS	NS016_PBMC	PBMC	NS016	None	active	FALSE	FALSE	a
+UV181_CSF	UV_181_CSF	control	control	birdshot	UV181_CSF	CSF	UV181	None		FALSE	FALSE	a
+UV181_PBMC	UV_181_PBMCs	control	control	birdshot	UV181_PBMC	PBMC	UV181	None		FALSE	FALSE	a
