@@ -35,6 +35,7 @@ dir.create( path = here( 'results', 'DEGs' ), showWarnings = FALSE, recursive = 
 dir.create( path = here( 'results', 'Monocle2', 'CDS' ), showWarnings = FALSE, recursive = TRUE )
 dir.create( path = here( 'results', 'Monocle2', 'Disp_Table' ), showWarnings = FALSE, recursive = TRUE )
 dir.create( path = here( 'results', 'Monocle2', 'Disp_Table', 'lin_markers' ), showWarnings = FALSE, recursive = TRUE )
+dir.create( path = here( 'results', 'figures', 'VDJ' ), showWarnings = FALSE, recursive = TRUE )
 
 ###################################################
 # variables imported into various analysis stages #
