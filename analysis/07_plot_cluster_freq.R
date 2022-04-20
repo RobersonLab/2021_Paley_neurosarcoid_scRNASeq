@@ -85,7 +85,7 @@ write.csv( x = as.data.frame(freq),
 pdf( file = here(
   'results',
   'calculations',
-  paste( section, 'freq', 'per', 'sample',' pdf', sep = '.' ) ) )
+  paste( section, 'freq', 'per', 'sample','pdf', sep = '.' ) ) )
 
 plot_out <- ggplot(data = counts,
                    aes(
