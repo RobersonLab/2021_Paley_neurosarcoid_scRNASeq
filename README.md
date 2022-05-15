@@ -2,7 +2,7 @@
 
 Published article: [The CSF in neurosarcoidosis contains consistent clonal expansion of CD8 T cells, but not CD4 T cells](https://pubmed.ncbi.nlm.nih.gov/35405431/)
 
-Downloadable data, including raw UMI counts, TCR sequences, and BCR sequences: [FigShare Project](https://figshare.com/account/home#/projects/137667)
+Downloadable data, including raw UMI counts, TCR sequences, and BCR sequences: [FigShare Project](https://figshare.com/projects/2021_neurosarcoid_single-cell_RNA-Seq_BCR_TCR_sequencing/137667)
 
 ## Project description
 These data were derived from individuals with active or inactive neurosarcoid (cases) and controls without neurosarcoid, but not necessarily without a diagnosed chronic disease. PBMCs were isolated from blood samples (PBMC) and cerebrospinal fluid (CSF) at the same visit. Relationship between samples, i.e. individual identifier, tissue, status, etc can be found in info/unified_project_info.tsv.
